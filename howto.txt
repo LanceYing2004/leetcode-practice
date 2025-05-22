@@ -1,1 +1,3 @@
 Please copy everything you want to test onto test.cpp, and run the file. Save a file in its respective directory for a copy
+
+All the question will be on its seperate folder. Inside will contain personal and official solution.
